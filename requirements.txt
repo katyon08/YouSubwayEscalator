@@ -1,0 +1,4 @@
+DateTime==4.3
+pytube==9.3.5
+pytz==2018.7
+zope.interface==4.6.0
